@@ -1,4 +1,4 @@
-package BehaviorInterfaces.QuackingBehaviors;
+package StrategyPattern.QuackingBehaviors;
 
 /**
  * Created by vytautassugintas on 17/03/16.

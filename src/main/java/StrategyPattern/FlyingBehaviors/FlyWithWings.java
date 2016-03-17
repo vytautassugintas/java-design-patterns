@@ -1,4 +1,4 @@
-package BehaviorInterfaces.FlyingBehaviors;
+package StrategyPattern.FlyingBehaviors;
 
 /**
  * Created by vytautassugintas on 17/03/16.

@@ -1,7 +1,7 @@
-package BehaviorInterfaces;
+package StrategyPattern;
 
-import BehaviorInterfaces.FlyingBehaviors.FlyBehavior;
-import BehaviorInterfaces.QuackingBehaviors.QuackBehavior;
+import StrategyPattern.FlyingBehaviors.FlyBehavior;
+import StrategyPattern.QuackingBehaviors.QuackBehavior;
 
 /**
  * Created by vytautassugintas on 17/03/16.
